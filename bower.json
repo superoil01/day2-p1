@@ -1,0 +1,17 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/superoil01/day2-p1",
+  "authors": [
+    "chonlatit manhuai <chonlatit11814@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
